@@ -21,11 +21,6 @@
         "url": "http://www.facebook.com/Kartheek.Netha"
       },
       {
-        "network": "google-plus",
-        "username": "Kartheek Netha",
-        "url": "http://www.plus.google.com/u/1/104314243493927927963"
-      },
-      {
         "network": "Linkedin",
         "username": "Kumara Kartheek",
         "url": "https://www.linkedin.com/in/kumara-kartheek-ab315861?trk=nav_responsive_tab_profile_pic"
@@ -143,8 +138,7 @@
     {
       "name": "Music",
       "keywords": [
-        "Aucostic Guitar",
-        "Arijth Singh"
+        "Aucostic Guitar"
       ]
     }
   ],
