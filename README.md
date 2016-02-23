@@ -12,9 +12,9 @@ Try resume editor:
     [jsonresume.org](http://jsonresume.org/getting-started/)
 
 Export resume:
-    * .pdf
-      - resume export resume.pdf
-    * .html
-      - resume export resume.html
-    * Use pre-installed themes:
-      - resume export resume.html --theme <themeName>
+* .pdf
+  - resume export resume.pdf
+* .html
+  - resume export resume.html
+* Use pre-installed themes:
+  - resume export resume.html --theme <themeName>
