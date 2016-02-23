@@ -1,5 +1,5 @@
 # kartheek2016.github.io
-Using JSON resume-cli
+Using JSON(javascript Object Notation) resume-cli
 ---------------------------
 
 Install:
