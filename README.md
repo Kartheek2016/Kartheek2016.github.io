@@ -3,13 +3,13 @@ Using JSON(Javascript Object Notation) resume-cli
 ---------------------------
 
 Install:
-    [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli)
+- [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli)
 
 Create json:
-    resume init
+- resume init
 
 Try resume editor:
-    [jsonresume.org](http://jsonresume.org/getting-started/)
+- [jsonresume.org](http://jsonresume.org/getting-started/)
 
 Export resume:
 * .pdf
