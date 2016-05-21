@@ -21,11 +21,6 @@
         "url": "http://www.facebook.com/Kartheek.Netha"
       },
       {
-        "network": "google-plus",
-        "username": "Kartheek Netha",
-        "url": "http://www.plus.google.com/u/1/104314243493927927963"
-      },
-      {
         "network": "Linkedin",
         "username": "Kumara Kartheek",
         "url": "https://www.linkedin.com/in/kumara-kartheek-ab315861?trk=nav_responsive_tab_profile_pic"
@@ -41,31 +36,31 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Osmania University",
+      "institution": "Methodist College of Engineering & Technology",
       "area": "Electronics & Communication Engineering",
       "studyType": "Bachelor of Engineering",
-      "startDate": "2011-06",
-      "endDate": "2015-05",
+      "startDate": "2011-06-01",
+      "endDate": "2015-05-01",
       "gpa": "63%",
       "courses": [
       ]
     },
     {
-      "institution": "Board of Intermedaite",
+      "institution": "Sri Chaitanya",
       "area": "MPC",
-      "studyType": "Intermediate",
-      "startDate": "2009-06",
-      "endDate": "2011-4",
+      "studyType": "Board of Intermediate",
+      "startDate": "2009-06-01",
+      "endDate": "2011-04-01",
       "gpa": "83%",
       "courses": [
       ]
     },
     {
-      "institution": "BORAD OF SECONDARY EDUACTION",
-      "area": "Higher Education",
-      "studyType": "SSC",
-      "startDate": "2008-06",
-      "endDate": "2009-3",
+      "institution": "The Indo English High School",
+      "area": "SSC",
+      "studyType": "BORAD OF SECONDARY EDUACTION",
+      "startDate": "2008-06-01",
+      "endDate": "2009-03-01",
       "gpa": "67%",
       "courses": [
       ]
@@ -75,52 +70,51 @@
   "publications": [],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "",
+      "name": "Programming languages",
+      "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-	"jQuery",
-	"Bootstrap"
+        "Java"
       ]
     },
     {
-      "name": "Programming languages",
-      "level": "",
+      "name": "CMS",
+      "level": "Intermediate",
       "keywords": [
-	"Java"
+        "Drupal 7"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Bootstrap 3",
+        "Javascript",
+        "jQuery",
+        "Angular js"
       ]
     },
     {
       "name": "DBMS",
-      "level": "",
+      "level": "Master",
       "keywords": [
-	"MySQL"
-      ]
-    },
-    {
-      "name": "Software packages",
-      "level": "",
-      "keywords": [
-	"PGDCA"
+	      "MySQL"
       ]
     },
     {
       "name": "Tools",
-      "level": "",
+      "level": "Master",
       "keywords": [
-	"MAT Lab",
-        "Keil μvision",
-        "Active-HDL",
-        "Xilinx"
+	      "Eclipse",
+        "Sublime"
       ]
     },
     {
       "name": "Operating Systems",
-      "level": "",
+      "level": "Master",
       "keywords": [
-	"Windows",
+	      "Windows",
         "Linux"
       ]
     }
@@ -143,8 +137,15 @@
     {
       "name": "Music",
       "keywords": [
-        "Aucostic Guitar",
-        "Arijth Singh"
+        "Rock",
+        "Metal",
+        "Trans"
+      ]
+    },
+    {
+      "name": "Music Instrument",
+      "keywords": [
+        "Aucostic Guitar"
       ]
     }
   ],
