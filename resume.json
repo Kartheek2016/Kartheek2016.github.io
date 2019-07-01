@@ -93,29 +93,31 @@
         "Bootstrap 3",
         "Javascript",
         "jQuery",
-        "Angular js"
+        "Angular js",
+	"Angular 6"
       ]
     },
     {
       "name": "DBMS",
       "level": "Master",
       "keywords": [
-	      "MySQL"
+	"MySQL"
       ]
     },
     {
       "name": "Tools",
       "level": "Master",
       "keywords": [
-	      "Eclipse",
-        "Sublime"
+	"Eclipse",
+        "Sublime",
+	"Visual Studio Code"
       ]
     },
     {
       "name": "Operating Systems",
       "level": "Master",
       "keywords": [
-	      "Windows",
+	"Windows",
         "Linux"
       ]
     }
